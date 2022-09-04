@@ -18,9 +18,9 @@ The license is simple: This code/data/waveforms are free for use in hobby and ot
 
 ## For a simple starting point and direct testing of the labels use following precompiled firmwares:
 
-- [demo_firmware_2.9_33_V1.2.5.0.bin](Wireless/29_HW_V33/29_FW1_2_5_0.bin) for 2.9" SoluM Shelf labels
-- [demo_firmware_1.54_33_V1.2.5.0.bin](Wireless/154_HW_V33/154_FW1_2_5_0.bin) for 1.54" SoluM Shelf labels
-- [demo_firmware_4.2_33_V1.2.5.0.bin](Wireless/42_HW_V33/42_FW1_2_5_0.bin) for 4.2" SoluM Shelf labels
+- [demo_firmware_2.9_33_V1.2.5.0.bin](Wireless/Compiled/29_HW_V33/29_FW1_2_5_0.bin) for 2.9" SoluM Shelf labels
+- [demo_firmware_1.54_33_V1.2.5.0.bin](Wireless/Compiled/154_HW_V33/154_FW1_2_5_0.bin) for 1.54" SoluM Shelf labels
+- [demo_firmware_4.2_33_V1.2.5.0.bin](Wireless/Compiled/42_HW_V33/42_FW1_2_5_0.bin) for 4.2" SoluM Shelf labels
 
 You still need to dump the infopage once and add a MAC to 0x10 otherwise it will be just 8 * 0xFF for every label, it will still work but can disrupt things.
 
