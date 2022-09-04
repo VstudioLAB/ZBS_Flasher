@@ -143,7 +143,7 @@ sleep: 791015
 
 Original video: <https://www.youtube.com/watch?v=S44NSr37eoo>
 
-[![YoutubeVideo]<https://img.youtube.com/vi/S44NSr37eoo/0.jpg>](https://www.youtube.com/watch?v=S44NSr37eoo)
+[![YoutubeVideo](https://img.youtube.com/vi/S44NSr37eoo/0.jpg)](https://www.youtube.com/watch?v=S44NSr37eoo)
 
 The original 3D model and DeLaJelmer's one are available in the 3D_models folder
 
