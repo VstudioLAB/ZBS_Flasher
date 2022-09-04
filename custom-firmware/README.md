@@ -4,12 +4,23 @@
 > **_NOTE:_**  If you use Docker, you should know how to use it, especially how to get the copied file from the Docker container afterwards. Dealing with Docker is not covered here.
 
 ### Credits:
-- https://twitter.com/atc1441
 - https://twitter.com/dmitrygr
+- https://twitter.com/atc1441
+- https://twitter.com/Vstudio_LAB
 
-## For a simple starting point and direct testing of the labels use this precompiled firmware for the 2.9" ST-GR29000 Label with a few modifications from @atc1441
+### Dmtry's Firmware:
 
-[demo_firmware_2.9_33_V1.5.0.0.bin](demo_firmware_2.9_33_V1.5.0.0.bin)
+Dmtry's website detail is process to create the firmware you're about to use. 
+
+<http://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags>
+
+The license is simple: This code/data/waveforms are free for use in hobby and other non-commercial products. For commercial use, contact him: <mailto:licensing@dmitry.gr>
+
+## For a simple starting point and direct testing of the labels use following precompiled firmwares:
+
+[demo_firmware_2.9_33_V1.2.5.0.bin](/wireless/29_HW_V33/29_FW1_2_5_0.bin) for 2.9" SoluM Shelf labels
+[demo_firmware_1.54_33_V1.2.5.0.bin](/wireless/154_HW_V33/154_FW1_2_5_0.bin) for 1.54" SoluM Shelf labels
+[demo_firmware_4.2_33_V1.2.5.0.bin](/wireless/42_HW_V33/42_FW1_2_5_0.bin) for 4.2" SoluM Shelf labels
 
 You still need to dump the infopage once and add a MAC to 0x10 otherwise it will be just 8 * 0xFF for every label, it will still work but can disrupt things.
 

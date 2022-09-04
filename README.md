@@ -16,10 +16,17 @@ https://youtu.be/QqyUzDRQEqA
 [![YoutubeVideo](https://img.youtube.com/vi/QqyUzDRQEqA/0.jpg)](https://www.youtube.com/watch?v=QqyUzDRQEqA)
 
 You can find the firmware, software and 3d design for the custom firmware flasher in the flasher folder.
+
 You can find the source files and some compiled firmware in the custom-firmware folder.
+
+You can find the station software in the station software
+
 
 
 Credit:
+
 ESP32 Flasher: ATC1441
+
 Arduino nano flasher: DeLaJelmer
+
 PriceTag firmware: Dmitry
