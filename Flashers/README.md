@@ -142,7 +142,8 @@ sleep: 791015
 # 3D printed pogo flasher
 
 Original video: <https://www.youtube.com/watch?v=S44NSr37eoo>
-[![YoutubeVideo]<https://www.youtube.com/watch?v=S44NSr37eoo>]
 
-The original 3D model and DeLaJelmer's one are available in the 3D_models folder.
+[![YoutubeVideo]<https://img.youtube.com/vi/S44NSr37eoo>](https://www.youtube.com/watch?v=S44NSr37eoo)
+
+The original 3D model and DeLaJelmer's one are available in the 3D_models folder
 
