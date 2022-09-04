@@ -8,13 +8,13 @@
 - https://twitter.com/atc1441
 - https://twitter.com/Vstudio_LAB
 
-### Dmtry's Firmware:
+## Dmtry's Firmware:
 
 Dmtry's website detail is process to create the firmware you're about to use. 
 
 <http://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags>
 
-The license is simple: This code/data/waveforms are free for use in hobby and other non-commercial products. For commercial use, contact him: <mailto:licensing@dmitry.gr>
+The license is simple: This code/data/waveforms are free for use in hobby and other non-commercial products. For commercial use, [contact him]<mailto:licensing@dmitry.gr>
 
 ## For a simple starting point and direct testing of the labels use following precompiled firmwares:
 
@@ -26,6 +26,11 @@ You still need to dump the infopage once and add a MAC to 0x10 otherwise it will
 
 It is advised to compile your own version to have a felxible firmware setup, the modified source will be released in the future.
 
+## Wireless station
+
+To control your newly flashed tags, use the station software available here:
+
+<https://github.com/danielkucera/epaper-station>
 # Download
 Use an Arch Linux or set up a docker container with the archlinux image to build the firmware.
 Other Distros can cause problems, e.g. the firmware does not find the MAC address.
