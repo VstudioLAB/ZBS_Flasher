@@ -14,7 +14,7 @@ Dmtry's website detail is process to create the firmware you're about to use.
 
 <http://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags>
 
-The license is simple: This code/data/waveforms are free for use in hobby and other non-commercial products. For commercial use, [contact him]<mailto:licensing@dmitry.gr>
+The license is simple: This code/data/waveforms are free for use in hobby and other non-commercial products. For commercial use, [contact him](mailto:licensing@dmitry.gr)
 
 ## For a simple starting point and direct testing of the labels use following precompiled firmwares:
 
@@ -26,7 +26,7 @@ You still need to dump the infopage once and add a MAC to 0x10 otherwise it will
 
 It is advised to compile your own version to have a felxible firmware setup, the modified source will be released in the future.
 
-## Wireless station
+# Wireless station
 
 To control your newly flashed tags, use the station software available here:
 
